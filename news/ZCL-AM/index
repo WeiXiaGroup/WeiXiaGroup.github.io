@@ -1,1 +1,24 @@
+---
+title: "夏威团队AM:卤化物固态电解质负极兼容性"
+summary: "近日，我院夏威助理教授及合作者在国际知名期刊《Advanced Materials》发表题为 “Anode Compatibility of Halide Solid-State Electrolytes”的学术论文"
+date: 2026-06-29 
 
+# 值越小越排前
+weight: 1
+
+
+page_id: "ZCL-AM"
+
+# 详情页面的 社交按钮图标 不展示 
+#share: false
+
+
+---
+{{< image src="images/news/ZCL-AM-0629-1.png" >}} 
+
+  该综述文章分析了现在常用的卤化物固态电解质与负极界面的兼容性，并对未来卤化物固态电解质及全固态锂金属电池的发展方向进行了展望。
+
+ {{< image src="images/news/ZCL-AM-0629-2.png" >}} 
+ 
+ 文献链接：
+https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.73862
