@@ -1,1 +1,80 @@
-index.md
+---
+# Display name
+title: 曲强
+
+# 职务  Role/position
+role: 博士后
+
+# 导师   
+mentor:  夏威
+ 
+# 联系电话   
+phone:  "15675288760"
+ 
+# 邮箱   
+email:  xlwang@eitech.edu.cn
+ 
+
+# 学术荣誉   
+awards: 
+ 
+#所属的组
+user_groups:
+  - postdoc
+
+#排序用
+weight: 20
+
+
+# single layout 
+type: team
+  
+---
+
+
+## 背景介绍
+2026年博士毕业于西北农林科技大学，师从邱凌教授、朱铭强教授，聚焦生物质热联产物功能开发及多孔碳/硬碳电极材料结构调控研究，并取得了系列的科研成果，其中以第一作者/共同第一作者身份发表期刊论文7篇。
+
+
+## 研究领域
+主要从事基于碳质负极/负极侧修饰材料的高比能全固态电池开发
+
+## 教育背景
+  
+- 2022.09-2026.06：博士，西北农林科技大学，机械与电子工程学院
+- 2018.09-2022.06：博士，西北农林科技大学，机械与电子工程学院
+- 2014.09-2018.06：学士，山东理工大学，农业工程与食品科学学院
+
+
+## 工作经历
+  
+- 2026.06-至今：宁波东方理工大学，理学部，博士后
+
+## 获奖情况及荣誉
+
+2025，西北农林科技大学先进个人 优秀大学生；
+2025，西北农林科技大学 华伊奖学金；
+2025，第四届中国研究生“双碳”创新与创意大赛 国家级二等奖；
+2025，第十四届中国创新创业大赛暨全国现代农业创新创业大赛 国家级二等奖；
+2022，绿色生物制氢国际会议 河南郑州 优秀口头报告奖；
+
+
+## 代表性论著
+
+
+  总体情况：16篇SCI论文；他引175次，H因子10，论著信息及引用数据Google Scholar：https://scholar.google.com/citations?user=qfPDwY8AAAAJ&hl=zh-CN
+ORCID：0000-0003-0183-9716
+
+###  5篇代表作(*表示通讯作者)
+
+1. Qiang Qu, Zhi-Zhen Chi, Zhi-Wen Wang, Jia-Qing Xie, Ling Qiu, Fang Gu, Ming-Qiang Zhu*. Stepwise De-solvation and Diffusion Kinetics of Hydrated Zn-ion in Hierarchical Porous Carbon Anode for Improved EDLC Behavior. Advanced Science, 2026, 13:e19684.
+2. Qiang Qu, Di Xing, Yong-Liang Chen, Ming-Qiang Zhu*. Modulating Pore Channels of Activated Carbon from Biomass to Assemble Zinc Ion Hybrid Supercapacitor with High Specific Capacitance. Journal of Bioresources and Bioproducts, 2025, 1:10-17.
+3. Qiang Qu, Zhuo Chen, Guo-Tao Sun, Ling Qiu, Ming-Qiang Zhu*. CoFe2O4 Nanoparticles as a Bifunctional Agent on Activated Porous Carbon for Battery-type Asymmetrical Supercapacitor. Chemical Synthesis, 2024, 4:26.
+4. Qiang Qu, Ming-Zhuo Li, Xiao-Hui Guo*. Synergistic Effects of Pyrolysis Temperature, Iron Ion Concentration and Solid/Liquid Ratio on the Properties and Cr(VI) Removal Performance of Magnetic Carbon. Journal of Water Process Engineering, 2023, 103785.
+5. Qiang Qu, Xiao-Hui Guo, Zhi-Jiang Shao, Xiu-Zhang Wang, Ming-Qiang Zhu, Ling Qiu. Adsorption Performance and Mechanism of Fe‑loaded Biochar Derived from Waste Zanthoxylum for Removing Cr(VI) from Aqueous Solution. Biomass Conversion and Biorefinery, 2023, 187631.
+
+
+
+
+
+
